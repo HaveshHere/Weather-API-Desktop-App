@@ -58,3 +58,7 @@ This project helped me learn how to integrate external APIs into Python applicat
 - Include a 5-day weather forecast
 
 - Improve the graphical interface design
+
+## 🎥 Video
+
+https://github.com/user-attachments/assets/765dd120-591f-4012-845c-3f84ad911fb3
